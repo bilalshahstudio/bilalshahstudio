@@ -18,17 +18,15 @@
   />
 </p> -->
 
-- 🔭 I’m currently working on [Hotel Booking
-Website](https://github.com/bilalshahstudio/Booking-System) - 🔭 Worked on
-[Finance Tracker
-Website](https://github.com/bilalshahstudio/Budget-Tracking-App) -🌱 I’m
-currently learning [Nextjs](https://nextjs.org/) - 💬 Ask me about
-[Nextjs](https://nextjs.org/), [React](https://react.dev/learn/installation),
+- 🔭 I’m currently working on [Hotel Booking Website](https://github.com/bilalshahstudio/Booking-System)
+ - 🔭 Worked on [Finance Tracker Website](https://github.com/bilalshahstudio/Budget-Tracking-App)
+ -🌱 I’m currently learning [Nextjs](https://nextjs.org/)
+ - 💬 Ask me about [Nextjs](https://nextjs.org/), [React](https://react.dev/learn/installation),
 [Nodejs](https://nodejs.org/en),
 [Mongodb](https://www.mongodb.com/lp/cloud/atlas/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_emea-pk_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624545&adgroup=115749718983&cq_cmp=12212624545&gad_source=1&gclid=Cj0KCQjw8MG1BhCoARIsAHxSiQnK2Ru1REsQbsipxASd4nOKpOGC2wcKegIXPs5bOGLovThoHDuTnTcaAggKEALw_wcB),
 [Tailwindcss](https://tailwindcss.com/docs/installation) and
-[JavaScript](https://www.javascript.com/) - 📫 How to reach me
-**Bilalshahstudio@gmail.com**
+[JavaScript](https://www.javascript.com/)
+ - 📫 How to reach me **Bilalshahstudio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -210,27 +208,27 @@ currently learning [Nextjs](https://nextjs.org/) - 💬 Ask me about
     />
   </a>
 </p>
-<!-- 
+
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mfaisal125&show_icons=true&locale=en&layout=compact"
-    alt="mfaisal125"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalshahstudio&show_icons=true&locale=en&layout=compact"
+    alt="bilalshahstudio"
   />
 </p>
 
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=mfaisal125&show_icons=true&locale=en"
-    alt="mfaisal125"
+    src="https://github-readme-stats.vercel.app/api?username=bilalshahstudio&show_icons=true&locale=en"
+    alt="bilalshahstudio"
   />
 </p>
 
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mfaisal125&"
-    alt="mfaisal125"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=bilalshahstudio&"
+    alt="bilalshahstudio"
   />
-</p> -->
+</p>
