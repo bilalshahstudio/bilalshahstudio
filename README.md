@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on [Hotel Booking Website](https://github.com/bilalshahstudio/Booking-System)
  - 🔭 Worked on [Finance Tracker Website](https://github.com/bilalshahstudio/Budget-Tracking-App)
- -🌱 I’m currently learning [Nextjs](https://nextjs.org/)
+ - 🌱 I’m currently learning [Nextjs](https://nextjs.org/) 
  - 💬 Ask me about [Nextjs](https://nextjs.org/), [React](https://react.dev/learn/installation),
 [Nodejs](https://nodejs.org/en),
 [Mongodb](https://www.mongodb.com/lp/cloud/atlas/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_emea-pk_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624545&adgroup=115749718983&cq_cmp=12212624545&gad_source=1&gclid=Cj0KCQjw8MG1BhCoARIsAHxSiQnK2Ru1REsQbsipxASd4nOKpOGC2wcKegIXPs5bOGLovThoHDuTnTcaAggKEALw_wcB),
